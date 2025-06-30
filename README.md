@@ -52,13 +52,6 @@ To view or edit the dashboard:
 
 ---
 
-## 📌 License
-
-This project is shared for **educational purposes only**.  
-Feel free to **fork**, learn from it, or adapt it for your own practice.  
-Commercial use is not permitted without permission.
-
----
 
 ## ✅ Author
 
